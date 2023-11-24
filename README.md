@@ -1,6 +1,8 @@
-# BMI-Calculator
+<h1 align=center>BMI Calculator</h1>
 
-![Calculadora BMI](https://github.com/FrankmDev/BMI-Calculator/blob/c5575bb1cc999121b5dd0aa501f0ae3e001a2abe/BMI-Calculator.png)
+<div align=center>
+  <img src='https://github.com/FrankmDev/BMI-Calculator/blob/c5575bb1cc999121b5dd0aa501f0ae3e001a2abe/BMI-Calculator.png' alt=BMI Calculator />
+</div>
 
 Este proyecto es una calculadora de Índice de Masa Corporal (BMI) simple, desarrollada en HTML, CSS y Javascript nativo. La calculadora permite a los usuarios calcular su BMI ingresando su peso y altura, y luego muestra la categoría de peso correspondiente.
 
